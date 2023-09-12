@@ -1,8 +1,9 @@
+BorisD2023/README.md
 # 💫 About Me:
 🔭 I am currently working on becoming an expert in web development 
-👯 I’m looking to collaborate on all kinds of Fullstack Projects
-🌱 I’m currently learning TypeScript
-⚡ I love nature, travelling and PC games
+<br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
+<br>🌱 I’m currently learning TypeScript
+<br>⚡ I love nature, travelling and PC games
 
 
 ## 🌐 Socials:
