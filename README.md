@@ -1,7 +1,5 @@
-<!--
+<--
 **BorisD2023/BorisD2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # 💫 About Me:
 🔭 I am currently working on becoming an expert in web development <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects<br>🌱 I’m currently learning TypeScript<br>⚡ I love nature, travelling and PC games
@@ -16,5 +14,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=BorisD2023&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BorisD2023&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisD2023&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 -->
