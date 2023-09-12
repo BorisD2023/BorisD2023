@@ -1,4 +1,3 @@
-BorisD2023/README.md
 # 💫 About Me:
 🔭 I am currently working on becoming an expert in web development 
 <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
