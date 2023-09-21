@@ -1,13 +1,13 @@
-<div style="display: flex; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr);">
   <div>
     💫 About Me:
     <br>🔭 I am currently working on becoming an expert in web development
     <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
     <br>🌱 I’m currently learning TypeScript
-    <br>⚡ I love nature, travelling and PC games
+    <br>⚡ I love nature, travelling and PC gaming
   </div>
-  <div style="margin-left: 20px;">
-    <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="Hi" width="400" height="400">
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="Hi" width="400" height="400" style="border-radius: 10;>
   </div>
 </div>
 
