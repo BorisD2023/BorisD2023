@@ -1,7 +1,7 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
     # 💫 About Me:
-    🔭 I am currently working on becoming an expert in web development
+    <br>🔭 I am currently working on becoming an expert in web development
     <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
     <br>🌱 I’m currently learning TypeScript
     <br>⚡ I love nature, travelling and PC games
