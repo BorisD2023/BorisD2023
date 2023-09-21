@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; gap: 20px;">
+<div>
   <div>
     💫 About Me:
     <br>🔭 I am currently working on becoming an expert in web development
@@ -8,7 +8,7 @@
   </div>
   <div>
     <div></div><br>
-    <img src="./bird.gif" alt="Hi" width="400" height="400" style="border-radius: 10%;">
+    <img src="./bird.gif" alt="Hi" width="400" height="400">
   </div>
 </div>
 
