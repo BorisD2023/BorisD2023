@@ -1,5 +1,5 @@
-<div>
-  <div margin-buttom: 5;>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
     💫 About Me:
     <br>🔭 I am currently working on becoming an expert in web development
     <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
@@ -7,9 +7,10 @@
     <br>⚡ I love nature, travelling and PC gaming
   </div>
   <div>
-    <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="Hi" width="400" height="400" style="border-radius: 10%;>
+    <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="Hi" width="400" height="400" style="border-radius: 10%;">
   </div>
 </div>
+
 
 
 
