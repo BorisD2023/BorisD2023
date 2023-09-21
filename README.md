@@ -7,6 +7,7 @@
     <br>⚡ I love nature, travelling and PC gaming
   </div>
   <div>
+    <div></div><br>
     <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="Hi" width="400" height="400" style="border-radius: 10%;">
   </div>
 </div>
