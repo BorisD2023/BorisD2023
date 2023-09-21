@@ -1,9 +1,16 @@
-# 💫 About Me:
-🔭 I am currently working on becoming an expert in web development 
-<br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
-<br>🌱 I’m currently learning TypeScript
-<br>⚡ I love nature, travelling and PC games
-![Hi](https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    # 💫 About Me:
+    🔭 I am currently working on becoming an expert in web development
+    <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
+    <br>🌱 I’m currently learning TypeScript
+    <br>⚡ I love nature, travelling and PC games
+  </div>
+  <div style="flex: 1;">
+    <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="Hi" width="200" height="200">
+  </div>
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boris-wahl-108092290) 
