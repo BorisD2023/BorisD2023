@@ -3,7 +3,7 @@
 <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
 <br>🌱 I’m currently learning TypeScript
 <br>⚡ I love nature, travelling and PC games
-https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif
+![]([Pfad_zum_GIF](https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif))
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boris-wahl-108092290) 
