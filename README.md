@@ -1,9 +1,9 @@
+💫 **About Me:**
+<br>🔭 I am currently working on becoming an expert in web development
+<br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
+<br>🌱 I’m currently learning TypeScript
+<br>⚡ I love nature, travelling, and PC gaming
 
-    💫 About Me:
-    <br>🔭 I am currently working on becoming an expert in web development
-    <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
-    <br>🌱 I’m currently learning TypeScript
-    <br>⚡ I love nature, travelling and PC gaming
 
 
 ## 🌐 Socials:
