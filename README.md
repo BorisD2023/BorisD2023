@@ -1,16 +1,10 @@
-<div>
-  <div>
+
     💫 About Me:
     <br>🔭 I am currently working on becoming an expert in web development
     <br>👯 I’m looking to collaborate on all kinds of Fullstack Projects
     <br>🌱 I’m currently learning TypeScript
     <br>⚡ I love nature, travelling and PC gaming
-  </div>
-  <div>
-    <div></div><br>
-    <img src="./bird.gif" alt="Hi" width="400" height="400">
-  </div>
-</div>
+
 
 ## 🌐 Socials:
 
