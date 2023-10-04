@@ -2,7 +2,7 @@
 - 🔭 I am currently working on becoming an expert in web development
 - 👯 I’m looking to collaborate on all kinds of Fullstack Projects
 - 🌱 I’m currently learning TypeScript
-- ⚡ I love nature, travelling, and PC gaming
+- ⚡ I love nature and travelling
 
 
 ## 🌐 Socials:
