@@ -1,7 +1,6 @@
 💫 **About Me:**
-- 🔭 I am currently working on becoming an expert in web development
+- 🔭 I am currently seeking for new career challenges
 - 👯 I’m looking to collaborate on all kinds of Fullstack Projects
-- 🌱 I’m currently learning TypeScript
 - ⚡ I love nature and travelling
 
 
